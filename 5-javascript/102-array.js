@@ -1,2 +1,5 @@
 let dwarves = ["Doc", "Grumpy", "Happy", "Sleepy", "Bashful", "Sneezy", "Dopey"  ]
-console.log(dwarves)
+for (let i = 1; i<=dwarves.length; i++)
+{
+  console.log(dwarves[i])
+}
