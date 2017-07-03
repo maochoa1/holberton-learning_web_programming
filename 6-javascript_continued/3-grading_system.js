@@ -16,6 +16,6 @@ console.log("you recieved a C+")
 else if (my_parameter >= 70){
 console.log("you recieved a C")
 }
-else if (my_parameter =< 69){
+else if (my_parameter <= 69){
 console.log("you recieved a D")
 }
